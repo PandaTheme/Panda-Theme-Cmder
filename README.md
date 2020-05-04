@@ -47,7 +47,7 @@ You can manually change the colors without the `ConEmu.xml` file
 1. Open cmder.exe and click on cmder icon on title bar after this click on `Settings` or press <kbd>win + alt + p</kbd>
 2. Go to `Colors` sub of `Features` setting and change standard colors to colors of this image:
 
-![Cmder Settings](http://s2.picofile.com/file/8262063600/cmer.jpg)
+![Cmder Settings](http://s1.picofile.com/file/8262127134/settings.jpg)
 
 Congratulations your Panda Theme is present
 
