@@ -32,11 +32,11 @@ If you changed other settings in Cmder and want to keep them, you can add the th
 	</key>
    ``` 
 
-   If you don't have the definition, then you may not have a custom color scheme. To add one, open Cmder and go to the settings and navigate to the `Colors` subsection of `Features`. Under `Schemes`, enter "Panda Theme" and click `Save`. Confirm the changes and then close out of Cmder.
+   If you don't have the definition, then you may not have a custom color scheme. To add one, open Cmder and go to the settings and navigate to the `Colors` subsection of `Features`. Under `Schemes`, enter "Panda" and click `Save`. Confirm the changes and then close out of Cmder.
 
 4. Copy the contents of `Panda-Theme-Cmder-Palette.xml` over the palette definition and save `ConEmu.xml`
 5. Open Cmder and go to the settings
-6. Under `Choose color scheme` of the `General` section, select `Panda Theme`
+6. Under `Choose color scheme` of the `General` section, select `Panda`
 7. Click on `Save settings`
 
 ### Manually change the color scheme

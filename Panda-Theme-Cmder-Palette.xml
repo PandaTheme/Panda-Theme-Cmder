@@ -1,5 +1,5 @@
 <key name="Palette1" modified="2020-05-04 13:23:05" build="191012">
-	<value name="Name" type="string" data="Panda Theme"/>
+	<value name="Name" type="string" data="Panda"/>
 	<value name="ExtendColors" type="hex" data="00"/>
 	<value name="ExtendColorIdx" type="hex" data="0e"/>
 	<value name="TextColorIdx" type="hex" data="10"/>
